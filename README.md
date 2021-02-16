@@ -1,4 +1,4 @@
-# Author Tag 1.0.1
+# Author Tag 1.0.2
 Insert autor tag to your code.
 by [Kozicki Paweł](https://pkozicki.tk/)
 ___
